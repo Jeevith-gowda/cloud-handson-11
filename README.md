@@ -40,7 +40,7 @@ This project demonstrates the use of AWS core services (S3, Glue, CloudWatch, At
 **Purpose**: Calculate running total of sales for each day in 2023
 **Business Value**: Understand sales accumulation patterns
 
-[View Query](queries/query1_cumulative_sales.sql) | [View Results](results/query1_results.csv)
+[View Query](queries/query1_cumulative_sales.sql) | [View Results](results/q1.csv)
 
 ### Query 2: Geographic Hotspot Analysis
 **Purpose**: Identify states with highest negative profits
