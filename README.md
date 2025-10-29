@@ -46,7 +46,7 @@ This project demonstrates the use of AWS core services (S3, Glue, CloudWatch, At
 **Purpose**: Identify states with highest negative profits
 **Business Value**: Target areas for cost reduction or product mix changes
 
-[View Query](queries/query2_geographic_hotspot.sql) | [View Results](results/q2.csv)
+[View Query](queries/query2_cumulative_sales.sql) | [View Results](results/q2.csv)
 
 ### Query 3: Discount Impact on Profitability
 **Purpose**: Analyze how different discount levels affect profit ratios by sub-category
