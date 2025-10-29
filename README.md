@@ -46,25 +46,25 @@ This project demonstrates the use of AWS core services (S3, Glue, CloudWatch, At
 **Purpose**: Identify states with highest negative profits
 **Business Value**: Target areas for cost reduction or product mix changes
 
-[View Query](queries/query2_geographic_hotspot.sql) | [View Results](results/query2_results.csv)
+[View Query](queries/query2_geographic_hotspot.sql) | [View Results](results/q2.csv)
 
 ### Query 3: Discount Impact on Profitability
 **Purpose**: Analyze how different discount levels affect profit ratios by sub-category
 **Business Value**: Optimize discount strategies
 
-[View Query](queries/query3_discount_impact.sql) | [View Results](results/query3_results.csv)
+[View Query](queries/query3_discount_impact.sql) | [View Results](results/q3.csv)
 
 ### Query 4: Top 3 Most Profitable Products
 **Purpose**: Rank top 3 products by profit within each category
 **Business Value**: Focus on high-performing products
 
-[View Query](queries/query4_top_products.sql) | [View Results](results/query4_results.csv)
+[View Query](queries/query4_top_products.sql) | [View Results](results/q4.csv)
 
 ### Query 5: Monthly Growth Analysis
 **Purpose**: Calculate month-over-month growth rates for sales and profit
 **Business Value**: Track business performance trends
 
-[View Query](queries/query5_monthly_growth.sql) | [View Results](results/query5_results.csv)
+[View Query](queries/query5_monthly_growth.sql) | [View Results](results/q5.csv)
 
 ## Key Insights
 - [Add your findings after running queries]
