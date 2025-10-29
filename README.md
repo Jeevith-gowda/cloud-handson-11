@@ -40,31 +40,31 @@ This project demonstrates the use of AWS core services (S3, Glue, CloudWatch, At
 **Purpose**: Calculate running total of sales for each day in 2023
 **Business Value**: Understand sales accumulation patterns
 
-[View Query](queries/query1_cumulative_sales.sql) | [View Results](results/q1.csv)
+[View Query](queries/query1.sql) | [View Results](results/q1.csv)
 
 ### Query 2: Geographic Hotspot Analysis
 **Purpose**: Identify states with highest negative profits
 **Business Value**: Target areas for cost reduction or product mix changes
 
-[View Query](queries/query2_cumulative_sales.sql) | [View Results](results/q2.csv)
+[View Query](queries/query2.sql) | [View Results](results/q2.csv)
 
 ### Query 3: Discount Impact on Profitability
 **Purpose**: Analyze how different discount levels affect profit ratios by sub-category
 **Business Value**: Optimize discount strategies
 
-[View Query](queries/query3_discount_impact.sql) | [View Results](results/q3.csv)
+[View Query](queries/query3.sql) | [View Results](results/q3.csv)
 
 ### Query 4: Top 3 Most Profitable Products
 **Purpose**: Rank top 3 products by profit within each category
 **Business Value**: Focus on high-performing products
 
-[View Query](queries/query4_top_products.sql) | [View Results](results/q4.csv)
+[View Query](queries/query4.sql) | [View Results](results/q4.csv)
 
 ### Query 5: Monthly Growth Analysis
 **Purpose**: Calculate month-over-month growth rates for sales and profit
 **Business Value**: Track business performance trends
 
-[View Query](queries/query5_monthly_growth.sql) | [View Results](results/q5.csv)
+[View Query](queries/query5.sql) | [View Results](results/q5.csv)
 
 ## Key Insights
 - [Add your findings after running queries]
